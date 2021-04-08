@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Clissia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Clissia\\.nuget\\packages"
+    ]
+  }
+}

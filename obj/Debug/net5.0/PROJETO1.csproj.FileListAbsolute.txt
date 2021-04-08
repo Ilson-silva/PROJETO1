@@ -1,0 +1,16 @@
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.exe
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.deps.json
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.runtimeconfig.json
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.runtimeconfig.dev.json
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.dll
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\ref\PROJETO1.dll
+C:\Aula Dotnet\PROJETO1\bin\Debug\net5.0\PROJETO1.pdb
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.csprojAssemblyReference.cache
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.AssemblyInfoInputs.cache
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.AssemblyInfo.cs
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.csproj.CoreCompileInputs.cache
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.dll
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\ref\PROJETO1.dll
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.pdb
+C:\Aula Dotnet\PROJETO1\obj\Debug\net5.0\PROJETO1.genruntimeconfig.cache
